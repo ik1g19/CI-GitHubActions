@@ -1,6 +1,5 @@
 package com.sparta.clf;
 
-// a class representing a bank account
 public class BankAccount {
     private double balance;
 
